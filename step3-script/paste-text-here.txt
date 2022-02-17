@@ -4,15 +4,20 @@ This will be my tagline:
 
 This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
 
+    Hello! My name is Katriona Marie Stagg. 
     
+    This website was created to demonstrate my passions and skill in the web development and design field. Here, you'll find several pieces that I have collected here together showcasing my knowledge in web development and design. Both back-end and front-end development can be seen, as well as graphic design.
+
+    Web development always fascinated me. The concept of how a website does what it does, learning what makes it tick and the fun elements at play behind it, it's such an incredible experience. That knowledge can bring you up to do incredible things, and that's what I intend to show here.
 
 Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
 
-    An interactive website that allows you to create your own snake plush. Created using PHP
+    An interactive website that allows you to create your own snake plush. 
+    Created using PHP code and UX elements.
 
 Title & Type of Site: 
 
-    Coily Companions - Create Your Slithery Someone Today! (Plush creation site)
+    Coily Companions - Create Your Slithery Someone Today! [Snake plush creation site]
 
 Talent Showcased: 
 
