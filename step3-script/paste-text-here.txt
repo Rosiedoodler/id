@@ -1,13 +1,15 @@
-This will be my tagline:
+This will be my tagline: It's all in the details
 
 This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
 
-Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
-Title & Type of Site:
-Talent Showcased: 
+
+
+Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: An interactive website that allows you to create your own snake plush. Created using PHP
+Title & Type of Site: Coily Companions - Create Your Slithery Someone Today! (Plush creation site)
+Talent Showcased: PHP and Javascript coding
 Objective: 
-Target Audience: 
+Target Audience: Children or Young Teens
 Highlights: 
-1)
-2)
-3)
+1) SVG graphics
+2) Interactive; Gameified website
+3) Organized code
