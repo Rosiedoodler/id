@@ -29,3 +29,24 @@ example of link
 
 ------------------------------------------
 Style-Comp_2 Body Copy:
+
+Home, About, Contact, Portfolio
+
+Portfolio
+
+Coily Companions - Create Your Slithery Someone Today!
+
+Snake Plush Creation Site
+
+
+Talent Showcased: PHP, UX and Javascript
+
+Objective: To sell snake plushies in a unique, fun, interactive way.
+
+Target Audience: Children or Young Teens
+
+Highlights:
+
+1) SVG Graphics
+2) Interactive; Gameified website
+3) Organized code
